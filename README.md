@@ -1,5 +1,4 @@
-# awesome-security-architecture
-Curated List of Resources for Security Architecture Review
+# Curated List of Resources for Security Architecture Review
 
 Security Architecture Review Process: [Link](https://handbook.gitlab.com/handbook/security/architecture/review/)
 
