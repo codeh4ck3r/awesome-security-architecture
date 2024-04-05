@@ -2,7 +2,7 @@
 
 A Curated List of Security Architecture Review Resources (Books, Courses - Free and Paid, Videos, Tools, Tutorials and Workshop to Practice on) for Learning Security Architecture Review.
 
-## Contents
+#### Contents
 - [Blogs and Articles](#Blogs-and-Articles)
 
 
