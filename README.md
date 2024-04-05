@@ -4,7 +4,6 @@ A Curated List of Security Architecture Review Resources (Books, Courses - Free 
 
 #### Contents
 - [Blogs and Articles](#Blogs-and-Articles)
-- 
 
 
 <br>
@@ -12,6 +11,5 @@ A Curated List of Security Architecture Review Resources (Books, Courses - Free 
 <br>
 
 #### Blogs and Articles
-<br>
 > - <a href="https://handbook.gitlab.com/handbook/security/architecture/review/](https://handbook.gitlab.com/handbook/security/architecture/review/">Security Architecture Review Process</a><br>
 > - <a href="https://cloudsecurityalliance.org/artifacts/security-guidance-v4/)](https://cloudsecurityalliance.org/artifacts/security-guidance-v4/">Security Guidance for Critical Areas of Focus in Cloud Computing v4.0</a>
