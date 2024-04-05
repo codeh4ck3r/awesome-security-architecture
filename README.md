@@ -2,8 +2,10 @@
 <br>
 <img src="image.jpeg">
 <br>
-# Curated List of Resources for Security Architecture Review
 
-Security Architecture Review Process: [https://handbook.gitlab.com/handbook/security/architecture/review/](https://handbook.gitlab.com/handbook/security/architecture/review/)
+A Curated List of Security Architecture Review Resources (Books, Courses - Free and Paid, Videos, Tools, Tutorials and Workshop to Practice on) for Learning Security Architecture Review.
 
-Security Guidance for Critical Areas of Focus in Cloud Computing v4.0: [https://cloudsecurityalliance.org/artifacts/security-guidance-v4/)](https://cloudsecurityalliance.org/artifacts/security-guidance-v4/)
+
+**Blogs and Articles** <br>
+<a href="https://handbook.gitlab.com/handbook/security/architecture/review/](https://handbook.gitlab.com/handbook/security/architecture/review/">Security Architecture Review Process</a><br>
+<a href="https://cloudsecurityalliance.org/artifacts/security-guidance-v4/)](https://cloudsecurityalliance.org/artifacts/security-guidance-v4/">Security Guidance for Critical Areas of Focus in Cloud Computing v4.0</a>
