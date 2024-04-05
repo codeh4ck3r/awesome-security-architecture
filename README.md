@@ -1,6 +1,6 @@
 # Awesome Security Architecture [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="image.jpeg">]
+<img src="image.jpeg">
 
 # Curated List of Resources for Security Architecture Review
 
