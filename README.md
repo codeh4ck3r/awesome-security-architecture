@@ -8,7 +8,7 @@ A Curated List of Security Architecture Review Resources (Books, Courses - Free 
 - [Checklists & Cheatsheets](#checklists-and-cheatsheets)
 
 <br>
-<img src="">
+<img src="image.jpeg">
 <br>
 
 #### Frameworks and Standards
