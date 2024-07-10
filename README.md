@@ -3,19 +3,13 @@
 A Curated List of Security Architecture Review Resources (Books, Courses - Free and Paid, Videos, Tools, Tutorials and Workshop to Practice on) for Learning Security Architecture Review.
 
 #### Contents
-- [Blogs and Articles](#Blogs-and-Articles)
 - [Frameworks & Standards](#Frameworks-and-Standards)
+- [Blogs and Articles](#Blogs-and-Articles)
 - [Checklists & Cheatsheets](#Checklists-and-Cheatsheets)
 
 <br>
 <img src="image.jpeg">
 <br>
-
-#### Blogs and Articles
-> - <a href="https://handbook.gitlab.com/handbook/security/architecture/review/">Security Architecture Review Process</a><br>
-> - <a href="https://cloudsecurityalliance.org/artifacts/security-guidance-v4/">Security Guidance for Critical Areas of Focus in Cloud Computing v4.0</a>
-> - <a href="https://www.claranet.com/us/blog/2021-04-01-security-architecture-review-cloud-native-environment">Security Architecture Review Of A Cloud Native Environment: Claranet</a>
-> - <a href="https://blog.bytebytego.com/archive?sort=new">Examples of Different Architectures</a>
 
 #### Frameworks and Standards
 > - <a href="https://sabsa.org/">SABSA (Sherwood Applied Business Security Architecture)</a><br>
@@ -24,6 +18,13 @@ A Curated List of Security Architecture Review Resources (Books, Courses - Free 
 > - <a href="https://www.iso.org/standard/27001">ISO/IEC 27001 and 27002</a><br>
 > - <a href="https://zachman-feac.com/">Zachman Framework</a><br>
 > - <a href="https://cloudsecurityalliance.org/research/cloud-controls-matrix">Cloud Controls Matrix (CCM): Cybersecurity Control Framework for Cloud Computing</a><br>
+
+
+#### Blogs and Articles
+> - <a href="https://handbook.gitlab.com/handbook/security/architecture/review/">Security Architecture Review Process</a><br>
+> - <a href="https://cloudsecurityalliance.org/artifacts/security-guidance-v4/">Security Guidance for Critical Areas of Focus in Cloud Computing v4.0</a>
+> - <a href="https://www.claranet.com/us/blog/2021-04-01-security-architecture-review-cloud-native-environment">Security Architecture Review Of A Cloud Native Environment: Claranet</a>
+> - <a href="https://blog.bytebytego.com/archive?sort=new">Examples of Different Architectures</a>
 
 
 #### Checklists and Cheatsheets
