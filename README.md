@@ -39,6 +39,7 @@ A Curated List of Security Architecture Review Resources (Books, Courses - Free 
 #### Checklists and Cheatsheets
 > - <a href="https://learn.microsoft.com/en-us/azure/well-architected/security/checklist">Design Review Checklist for Azure</a>
 > - <a href="https://github.com/codeh4ck3r/awesome-security-architecture/blob/main/Files/security-architecture-cheat-sheet.pdf"> Security Architecture Cheatsheet By Lenny Zeltser</a>
+> - <a href="https://sabsacourses.com/wp-content/uploads/2021/02/TSI-W100-SABSA-White-Paper.pdf">SABSA | Enterprise Security Architecture White Paper</a><br>
 
 
 #### To be Done
