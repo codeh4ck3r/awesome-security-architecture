@@ -1,5 +1,9 @@
 # Awesome Security Architecture [![Awesome](https://awesome.re/badge.svg)]()
 
+<br>
+<img src="image.jpeg">
+<br>
+
 A Curated List of Security Architecture Review Resources (Books, Courses - Free and Paid, Videos, Tools, Tutorials and Workshop to Practice on) for Learning Enterprise Security Architecture.
 
 #### Contents
@@ -7,10 +11,6 @@ A Curated List of Security Architecture Review Resources (Books, Courses - Free 
 - [Blogs and Articles](#blogs-and-articles)
 - [Checklists & Cheatsheets](#checklists-and-cheatsheets)
 - [Videos & Trainings](#videos-and-trainings)
-
-<br>
-<img src="image.jpeg">
-<br>
 
 #### Frameworks and Standards
 > - <a href="https://sabsa.org/">SABSA (Sherwood Applied Business Security Architecture)</a><br>
