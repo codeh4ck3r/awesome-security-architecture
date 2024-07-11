@@ -1,6 +1,6 @@
 # Awesome Security Architecture [![Awesome](https://awesome.re/badge.svg)]()
 
-A Curated List of Security Architecture Review Resources (Books, Courses - Free and Paid, Videos, Tools, Tutorials and Workshop to Practice on) for Learning Security Architecture Review.
+A Curated List of Security Architecture Review Resources (Books, Courses - Free and Paid, Videos, Tools, Tutorials and Workshop to Practice on) for Learning Enterprise Security Architecture.
 
 #### Contents
 - [Frameworks & Standards](#frameworks-and-standards)
