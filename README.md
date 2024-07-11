@@ -6,6 +6,7 @@ A Curated List of Security Architecture Review Resources (Books, Courses - Free 
 - [Frameworks & Standards](#frameworks-and-standards)
 - [Blogs and Articles](#blogs-and-articles)
 - [Checklists & Cheatsheets](#checklists-and-cheatsheets)
+- [Videos & Trainings](#videos-and-trainings)
 
 <br>
 <img src="image.jpeg">
@@ -25,6 +26,14 @@ A Curated List of Security Architecture Review Resources (Books, Courses - Free 
 > - <a href="https://cloudsecurityalliance.org/artifacts/security-guidance-v4/">Security Guidance for Critical Areas of Focus in Cloud Computing v4.0</a>
 > - <a href="https://www.claranet.com/us/blog/2021-04-01-security-architecture-review-cloud-native-environment">Security Architecture Review Of A Cloud Native Environment: Claranet</a>
 > - <a href="https://blog.bytebytego.com/archive?sort=new">Examples of Different Architectures</a>
+> - <a href="https://medium.com/@marioplatt/what-is-sabsa-enterprise-security-architecture-and-why-should-you-care-a649418b2742">What is SABSA Enterprise Security Architecture?</a><br>
+
+#### Videos and Trainings
+> - <a href="https://www.youtube.com/watch?v=WXoG9ETfJnk">Using SABSA to Architect Zero Trust Networks</a><br>
+> - <a href="https://www.youtube.com/playlist?list=PLOspHqNVtKADkWLFt9OcziQF7EatuANSY">Cybersecurity Architecture Series By IBM Technologies</a><br>
+> - <a href="https://www.youtube.com/playlist?list=PL0hT6hgexlYztA41j1bceTfVagP9mtq28">Implementing SABSA: Practical Strategy for Business-Aligned Security from GRC Practical Series</a><br>
+> - <a href="https://www.youtube.com/watch?v=X9a7FI_2v3Q">Implementing Enterprise Security Architecture | Webinar by Open Consulting</a><br>
+> - <a href="https://www.youtube.com/watch?v=IaQddw-uCvY">Zachman Framework in 10 Minutes by Mark Richards</a><br>
 
 
 #### Checklists and Cheatsheets
