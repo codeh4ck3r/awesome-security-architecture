@@ -44,6 +44,8 @@ A Curated List of Security Architecture Review Resources (Books, Courses - Free 
 > - <a href="https://enterprisemodelingsolutions.com/wp-content/uploads/2017/09/SABSA%20Using%20Enterprise%20Architect.pdf">Modeling a SABSA® based Enterprise Security Architecture using Enterprise Architect</a><br>
 > - <a href="https://sabsacourses.com/wp-content/uploads/2021/02/TSI-W101-Architecting-a-Secure-Digital-World.pdf">W101: Architecting a Secure Digital World</a><br>
 
+#### References
+> - <a href="https://sabsa.org/">SABSA</a><br>
 
 #### To be Done
 > - Network Security Architecture Review
