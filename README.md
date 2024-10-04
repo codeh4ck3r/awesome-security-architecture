@@ -63,3 +63,4 @@ A Curated List of Security Architecture Review Resources (Books, Courses - Free 
 > - Web Application Security Architecture Review
 > - Cloud Security Architecture Review
 > - Network Device Audit and Configuration Review
+> - Report Templates
