@@ -19,6 +19,7 @@ A Curated List of Security Architecture Review Resources (Books, Courses - Free 
 > - <a href="https://www.iso.org/standard/27001">ISO/IEC 27001 and 27002</a><br>
 > - <a href="https://zachman-feac.com/">Zachman Framework</a><br>
 > - <a href="https://cloudsecurityalliance.org/research/cloud-controls-matrix">Cloud Controls Matrix (CCM): Cybersecurity Control Framework for Cloud Computing</a><br>
+> - <a href="https://www.opensecurityarchitecture.org/cms/">Open Security Architecture</a><br>
 
 
 #### Blogs and Articles
@@ -27,6 +28,8 @@ A Curated List of Security Architecture Review Resources (Books, Courses - Free 
 > - <a href="https://www.claranet.com/us/blog/2021-04-01-security-architecture-review-cloud-native-environment">Security Architecture Review Of A Cloud Native Environment: Claranet</a><br>
 > - <a href="https://blog.bytebytego.com/archive?sort=new">Examples of Different Architectures</a><br>
 > - <a href="https://medium.com/@marioplatt/what-is-sabsa-enterprise-security-architecture-and-why-should-you-care-a649418b2742">What is SABSA Enterprise Security Architecture?</a><br>
+> - <a href="https://www.opensecurityarchitecture.org/cms/foundations/osa-landscape">Open Security Architecture Landscape</a><br>
+> - <a href="https://www.opensecurityarchitecture.org/cms/foundations/osa-process-landscape">Open Security Architecture Process Landscape</a><br>
 
 #### Videos and Trainings
 > - <a href="https://www.youtube.com/watch?v=WXoG9ETfJnk">Using SABSA to Architect Zero Trust Networks</a><br>
