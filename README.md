@@ -11,6 +11,7 @@ A Curated List of Security Architecture Review Resources (Books, Courses - Free 
 - [Checklists & Cheatsheets](#checklists-and-cheatsheets)
 - [Blogs and Articles](#blogs-and-articles)
 - [Videos & Trainings](#videos-and-trainings)
+- [Network Security Architecture Review](#network-security-architecture-review)
 
 #### Frameworks and Standards
 > - <a href="https://sabsa.org/">SABSA (Sherwood Applied Business Security Architecture)</a><br>
