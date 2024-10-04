@@ -49,11 +49,14 @@ A Curated List of Security Architecture Review Resources (Books, Courses - Free 
 > - <a href="https://www.youtube.com/watch?v=DLQAbJm4gFM"> Zero Trust Network Access</a><br>
 
 #### Network Security Architecture Review
+> - <a href="https://www.iso.org/standard/80972.html">ISO/IEC 27033-7:2023 - Network Security</a><br>
+> - <a href="https://www.cisecurity.org/cis-benchmarks"> CIS Benchmarks for Network Devices</a><br>
+> - <a href="https://csrc.nist.gov/pubs/sp/800/41/r1/final">NIST SP 800-41 - Guidelines on Firewalls and Firewall Policy</a><br>
+> - <a href="https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-94.pdf">NIST SP 800-94 - Guide to Intrusion Detection and Prevention Systems (IDPS)</a><br>
 > - <a href="https://www.paloaltonetworks.com/cyberpedia/what-is-zero-trust-network-access-ztna">Zero Trust Network Access - Palo Alto</a><br>
 >> - <a href="https://www.paloaltonetworks.com/blog/2020/07/zero-trust-network-access-solutions/">Why Most Zero Trust Network Access Solutions Are Too Trusting</a><br>
 
 #### To be Done
-> - Network Security Architecture Review
 > - IAM Architecture Review
 > - Infrastructure Security Architecture Review
 > - Web Application Security Architecture Review
