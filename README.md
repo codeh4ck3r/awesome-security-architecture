@@ -8,8 +8,8 @@ A Curated List of Security Architecture Review Resources (Books, Courses - Free 
 
 #### Contents
 - [Frameworks & Standards](#frameworks-and-standards)
-- [Blogs and Articles](#blogs-and-articles)
 - [Checklists & Cheatsheets](#checklists-and-cheatsheets)
+- [Blogs and Articles](#blogs-and-articles)
 - [Videos & Trainings](#videos-and-trainings)
 
 #### Frameworks and Standards
@@ -21,6 +21,12 @@ A Curated List of Security Architecture Review Resources (Books, Courses - Free 
 > - <a href="https://cloudsecurityalliance.org/research/cloud-controls-matrix">Cloud Controls Matrix (CCM): Cybersecurity Control Framework for Cloud Computing</a><br>
 > - <a href="https://www.opensecurityarchitecture.org/cms/">Open Security Architecture</a><br>
 
+#### Checklists and Cheatsheets
+> - <a href="https://learn.microsoft.com/en-us/azure/well-architected/security/checklist">Design Review Checklist for Azure</a><br>
+> - <a href="https://github.com/codeh4ck3r/awesome-security-architecture/blob/main/Files/security-architecture-cheat-sheet.pdf"> Security Architecture Cheatsheet By Lenny Zeltser</a><br>
+> - <a href="https://sabsacourses.com/wp-content/uploads/2021/02/TSI-W100-SABSA-White-Paper.pdf">SABSA | Enterprise Security Architecture White Paper</a><br>
+> - <a href="https://enterprisemodelingsolutions.com/wp-content/uploads/2017/09/SABSA%20Using%20Enterprise%20Architect.pdf">Modeling a SABSA® based Enterprise Security Architecture using Enterprise Architect</a><br>
+> - <a href="https://sabsacourses.com/wp-content/uploads/2021/02/TSI-W101-Architecting-a-Secure-Digital-World.pdf">W101: Architecting a Secure Digital World</a><br>
 
 #### Blogs and Articles
 > - <a href="https://handbook.gitlab.com/handbook/security/architecture/review/">Security Architecture Review Process</a><br>
@@ -38,14 +44,6 @@ A Curated List of Security Architecture Review Resources (Books, Courses - Free 
 > - <a href="https://www.youtube.com/watch?v=X9a7FI_2v3Q">Implementing Enterprise Security Architecture | Webinar by Open Consulting</a><br>
 > - <a href="https://www.youtube.com/watch?v=IaQddw-uCvY">Zachman Framework in 10 Minutes by Mark Richards</a><br>
 > - <a href="https://www.youtube.com/watch?v=Dy7hmnQTMSc">Using SABSA to Leverage Security Standards and Guidelines</a><br>
-
-
-#### Checklists and Cheatsheets
-> - <a href="https://learn.microsoft.com/en-us/azure/well-architected/security/checklist">Design Review Checklist for Azure</a><br>
-> - <a href="https://github.com/codeh4ck3r/awesome-security-architecture/blob/main/Files/security-architecture-cheat-sheet.pdf"> Security Architecture Cheatsheet By Lenny Zeltser</a><br>
-> - <a href="https://sabsacourses.com/wp-content/uploads/2021/02/TSI-W100-SABSA-White-Paper.pdf">SABSA | Enterprise Security Architecture White Paper</a><br>
-> - <a href="https://enterprisemodelingsolutions.com/wp-content/uploads/2017/09/SABSA%20Using%20Enterprise%20Architect.pdf">Modeling a SABSA® based Enterprise Security Architecture using Enterprise Architect</a><br>
-> - <a href="https://sabsacourses.com/wp-content/uploads/2021/02/TSI-W101-Architecting-a-Secure-Digital-World.pdf">W101: Architecting a Secure Digital World</a><br>
 
 #### References
 > - <a href="https://sabsa.org/">SABSA</a><br>
