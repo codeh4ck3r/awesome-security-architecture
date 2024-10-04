@@ -20,6 +20,8 @@ A Curated List of Security Architecture Review Resources (Books, Courses - Free 
 > - <a href="https://zachman-feac.com/">Zachman Framework</a><br>
 > - <a href="https://cloudsecurityalliance.org/research/cloud-controls-matrix">Cloud Controls Matrix (CCM): Cybersecurity Control Framework for Cloud Computing</a><br>
 > - <a href="https://www.opensecurityarchitecture.org/cms/">Open Security Architecture</a><br>
+> - <a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-207.pdf">NIST Zero Trust Architecture</a><br>
+> - <a href="https://www.sans.org/blog/what-is-zero-trust-architecture/"> SANS Zero Trust Architecture</a><br>
 
 #### Checklists and Cheatsheets
 > - <a href="https://learn.microsoft.com/en-us/azure/well-architected/security/checklist">Design Review Checklist for Azure</a><br>
@@ -44,6 +46,11 @@ A Curated List of Security Architecture Review Resources (Books, Courses - Free 
 > - <a href="https://www.youtube.com/watch?v=X9a7FI_2v3Q">Implementing Enterprise Security Architecture | Webinar by Open Consulting</a><br>
 > - <a href="https://www.youtube.com/watch?v=IaQddw-uCvY">Zachman Framework in 10 Minutes by Mark Richards</a><br>
 > - <a href="https://www.youtube.com/watch?v=Dy7hmnQTMSc">Using SABSA to Leverage Security Standards and Guidelines</a><br>
+> - <a href="https://www.youtube.com/watch?v=DLQAbJm4gFM"> Zero Trust Network Access</a><br>
+
+#### Network Security Architecture Review
+> - <a href="https://www.paloaltonetworks.com/cyberpedia/what-is-zero-trust-network-access-ztna">Zero Trust Network Access - Palo Alto</a><br>
+>> - <a href="https://www.paloaltonetworks.com/blog/2020/07/zero-trust-network-access-solutions/">Why Most Zero Trust Network Access Solutions Are Too Trusting</a><br>
 
 #### To be Done
 > - Network Security Architecture Review
