@@ -45,9 +45,6 @@ A Curated List of Security Architecture Review Resources (Books, Courses - Free 
 > - <a href="https://www.youtube.com/watch?v=IaQddw-uCvY">Zachman Framework in 10 Minutes by Mark Richards</a><br>
 > - <a href="https://www.youtube.com/watch?v=Dy7hmnQTMSc">Using SABSA to Leverage Security Standards and Guidelines</a><br>
 
-#### References
-> - <a href="https://sabsa.org/">SABSA</a><br>
-
 #### To be Done
 > - Network Security Architecture Review
 > - IAM Architecture Review
