@@ -15,7 +15,7 @@ A Curated List of Security Architecture Review Resources (Books, Courses - Free 
 #### Frameworks and Standards
 > - <a href="https://sabsa.org/">SABSA (Sherwood Applied Business Security Architecture)</a><br>
 > - <a href="https://www.opengroup.org/togaf">TOGAF (The Open Group Architecture Framework)</a><br>
-> - <a href="https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final">NIST SP 800-53 (National Institute of Standards and Technology Special Publication 800-53)</a><br>
+> - <a href="https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP.29.pdf">National Institute of Standards and Technology (NIST) Cybersecurity Framework</a><br>
 > - <a href="https://www.iso.org/standard/27001">ISO/IEC 27001 and 27002</a><br>
 > - <a href="https://zachman-feac.com/">Zachman Framework</a><br>
 > - <a href="https://cloudsecurityalliance.org/research/cloud-controls-matrix">Cloud Controls Matrix (CCM): Cybersecurity Control Framework for Cloud Computing</a><br>
